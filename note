@@ -1,3 +1,6 @@
 1.text-align cannot work with the element i
 Solution:<center><i>text</i></center>
-2.The way to add a img:<img src="img link">(note that the element img is self-closing)
+2.Add a img:<img src="img link">(note that the element img is self-closing)
+3.Make you img Mobile Responsive:<img class="img-responsive"src="img link"(you should include the library Bootstrap first)
+4.Turn an img into link:<a href="link(you can fill the # if you don't sure the link)"><img src="img link"></a>
+5.Make a border:add a border style.  e.g.<stlye>.eg-border{border-style:soild;border-color:black;border-wideth:10pxborder-radius:50%;}
