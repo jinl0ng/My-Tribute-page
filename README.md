@@ -5,9 +5,4 @@ freecodecamp challenge 131
     3.Rule #2: Fulfill the below user stories. Use whichever libraries you need. Give it your own personal style.
     4.User Story: I can view a tribute page with an image and text.
     5.User Story: I can click on a link that will take me to an external website with further information on the topic.
-    6.Remember to use Read-Search-Ask if you get stuck.
-    7.When you are finished, click the "I've completed this challenge" button and include a link to your CodePen.
-    8.You can get feedback on your project from fellow campers by sharing it in our Code Review Chatroom. You can also share it on Twitter and your city's Campsite (on Facebook).
-   
-   
  i will use github to writedown what i learn from this challenge
