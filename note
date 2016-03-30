@@ -1,1 +1,2 @@
 1.text-align cannot work with the element i
+解决方案:<center><i>text</i></center>
