@@ -4,3 +4,5 @@ Solution:<center><i>text</i></center>
 3.Make you img Mobile Responsive:<img class="img-responsive"src="img link"(you should include the library Bootstrap first)
 4.Turn an img into link:<a href="link(you can fill the # if you don't sure the link)"><img src="img link"></a>
 5.Make a border:add a border style.  e.g.<stlye>.eg-border{border-style:soild;border-color:black;border-wideth:10pxborder-radius:50%;}
+6.Add caption to describe you img etc:<img>
+7.Emphasize text:<em>text</em>
