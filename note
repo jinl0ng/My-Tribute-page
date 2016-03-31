@@ -8,3 +8,5 @@ Solution:<center><i>text</i></center>
 7.Emphasize text:<em>text</em>
 8.Add horizon:<hr>
 9.Add footer:<footer><p>text</p></footer>
+10.Add cite:<cite>text</cite>
+11.Bold:<strong>text</strong>
