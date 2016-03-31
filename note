@@ -6,3 +6,5 @@ Solution:<center><i>text</i></center>
 5.Make a border:add a border style.  e.g.<stlye>.eg-border{border-style:soild;border-color:black;border-wideth:10pxborder-radius:50%;}
 6.Add caption to describe you img etc:<img>
 7.Emphasize text:<em>text</em>
+8.Add horizon:<hr>
+9.Add footer:<footer><p>text</p></footer>
