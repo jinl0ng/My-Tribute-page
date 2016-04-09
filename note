@@ -1,5 +1,5 @@
 1.text-align cannot work with the element i
-Solution:<h1 style="text-align"><i>text</i></h1>
+Solution:<h1 style="text-align:center"><i>text</i></h1>
 2.Add a img:<img src="img link">(note that the element img is self-closing)
 3.Make you img Mobile Responsive:<img class="img-responsive"src="img link"(you should include the library Bootstrap first)
 4.Turn an img into link:<a href="link(you can fill the # if you don't sure the link)"><img src="img link"></a>
